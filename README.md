@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=13-sam&label=Profile%20views&color=0e75b6&style=flat" alt="13-sam" /> </p>
 
-- 🔭 I’m currently working on [Blog Project](https://github.com/13-Sam/Blog_Project)
+- 🔭 I’m currently working on [Ecomerce Project](https://github.com/13-Sam/Blog_Project)
 
 - 👨‍💻 All of my projects are available at [https://github.com/13-Sam](https://github.com/13-Sam)
 
